@@ -1,6 +1,6 @@
 :root {
   --font-titulos: "Vollkorn SC", serif;
-  --bg-color: #fdf0ba;
+  --bg-color: #97efea;
   --font-descripcion: "Average", serif;
   --font-elementos: "Kanit", sans-serif;
 }
@@ -41,7 +41,7 @@ header {
   width: 80%;
   height: 5px;
   margin-inline: auto;
-  background-color: red;
+  background-color: #f5cd08;
   border-color: 1px solid black;
   @media screen and (min-width: 650px) {
     width: 100%;
@@ -52,7 +52,7 @@ header {
   margin-top: 3px;
   width: 60%;
   height: 5px;
-  background-color: green;
+  background-color: rgb(128, 0, 70);
   border-color: 1px solid black;
   @media screen and (min-width: 650px) {
     width: 80%;
