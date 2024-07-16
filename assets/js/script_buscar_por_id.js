@@ -55,7 +55,7 @@ $(function () {
 });
 
 /*
-Validacion de formulario
+Validación de formulario
 */
 
 const form = document.querySelector(".needs-validation");
@@ -136,7 +136,7 @@ function seteoInfoSuperHeroe(dataResponse) {
 }
 
 /*
-Creacion de Canvas
+Creación de Canvas
 */
 function crearCanvas(dataResponse) {
   const { intelligence, strength, speed, durability, power, combat } =

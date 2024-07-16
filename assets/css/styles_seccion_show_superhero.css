@@ -44,11 +44,3 @@
   color: black;
   font-weight: 700;
 }
-.contenedor_canvas {
-  width: 100%;
-  text-align: center;
-}
-.canvasjs-chart-canvas {
-  max-width: 100% !important;
-  height: 400px !important;
-}

@@ -27,7 +27,7 @@ $(function () {
             Swal.fire({
               icon: "error",
               title: "ERROR",
-              text: "Caracter con el nombre dado no ha sido encontrado",
+              text: "Personaje con el nombre dado no ha sido encontrado",
             });
             $(".id_resultado").html("ID");
             $("#input_nombre_superhero").val("");
